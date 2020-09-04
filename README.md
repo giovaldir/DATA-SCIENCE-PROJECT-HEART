@@ -1,4 +1,4 @@
-# DATASCIENCEPROJECT-HEART-DISEASE
+# DATA-SCIENCE-PROJECT-HEART-DISEASE
 https://www.kaggle.com/ronitf/heart-disease-uci
 
 ![](heart.jpg)
