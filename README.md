@@ -15,6 +15,10 @@ Penyakit jantung masih menjadi momok bagi sebagian besar masyarakat Indonesia. B
 - mendapatkan faktor-faktor lain yang mempengaruhi kecenderungan penyakit jantung
 - mendapatkan model untuk mengklasifikasikan pasien yang memliki kecenderungan mengidap penyakit jantung dan tidak
 
+### Target vs Age
+![](heartvsage.png)
+
+
 ### Target vs Gender
 ![](heartvsgender.png)
 
@@ -34,6 +38,13 @@ Penyakit jantung masih menjadi momok bagi sebagian besar masyarakat Indonesia. B
 ### Target vs CPT(Chest Pain Test)
 ![](heartvschest.png)
 
+
+### Target vs CA
+![](heartvsca.png)
+
+
+### Target vs Depression
+![](heartvsdepression.png)
 
 ### Contact Me
 
