@@ -15,4 +15,5 @@ Penyakit jantung masih menjadi momok bagi sebagian besar masyarakat Indonesia. B
 - mendapatkan faktor-faktor lain yang mempengaruhi kecenderungan penyakit jantung
 - mendapatkan model untuk mengklasifikasikan pasien yang memliki kecenderungan mengidap penyakit jantung dan tidak
 
+![](heartvsgender.png)
 
