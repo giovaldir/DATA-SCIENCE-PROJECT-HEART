@@ -64,6 +64,17 @@ Penyakit jantung masih menjadi momok bagi sebagian besar masyarakat Indonesia. B
 ### Target vs Depression
 ![](heartvsdepression.png)
 
+
+### Classification Score (%)
+|  | Score(%) |
+| --- | --- |
+| Accuracy | 86.885246 |
+| Recall | 90.62500 |
+| Precision | 85.294118 |
+| ROC AUC | 86.691810 |
+| F1 Score | 87.878788 |
+
+
 ### Contact Me
 
 | Contact Method |  |
